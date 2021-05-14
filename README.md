@@ -18,3 +18,6 @@
 
 [王硕，孙洋洋著.PyQt5快速开发与实战[M].北京：电子工业出版社.2017.](https://pan.baidu.com/s/1km1dVyiZ1fxbhujh8T3paw)
 提取码：zrbx
+
+## 需要解决的问题
+[在PyQt中显示Matplotlib画图](https://blog.csdn.net/panrenlong/article/details/80183519)
